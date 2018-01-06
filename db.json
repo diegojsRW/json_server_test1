@@ -1,0 +1,14 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"username": "johndoe",
+			"password": "013d6d51e2826ddbc2adcfcf8c5b20f211496334"
+		},
+		{
+			"id": 2,
+			"username": "marydoe",
+			"password": "577a1d73c134466407a2f98c9b594af66bc6e2cc"
+		}		
+	]
+}
